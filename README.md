@@ -17,6 +17,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
+# Projetos
+- [Ensaios de Machine Learning](https://github.com/RafaelMacorin/ensaios_machine_learning)
+
 # Estudando sobre 📖
 
 - Data Science
