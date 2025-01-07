@@ -19,6 +19,7 @@
 
 # Projetos
 - [Ensaios de Machine Learning](https://github.com/RafaelMacorin/ensaios_machine_learning)
+- [Sales Forecasting - Rossmann](https://github.com/RafaelMacorin/sales_forecasting)
 
 # Estudando sobre 📖
 
